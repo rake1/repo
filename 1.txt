@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 iam in hostel
+=======
+this is another file of mine has gon e to the clustering to shop thi s has a lot
+>>>>>>> 73fd3a58aa16cbf28e2a2ccea1dc2883f14e9701
